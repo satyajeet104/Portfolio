@@ -261,3 +261,7 @@ a {
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
     background-color: #1a252f;
     border-color: #1a252f; }
+    .photo{
+      border-radius: 50px;
+      height:70px;
+    }

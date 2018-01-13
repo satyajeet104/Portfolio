@@ -166,7 +166,10 @@
         max-width: 978px;
     }  
 
-
+.fullBody{
+    z-index:999;
+    display:none;
+}
 
 
 
