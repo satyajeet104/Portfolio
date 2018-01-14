@@ -1,8 +1,10 @@
 $(document).ready(function() {
- 
+    $(".navbar").hide();
     setTimeout(function(){
+
         $('body').addClass('loaded');
-    }, 300);
+        $(".navbar").show();
+    }, 4000);
  
 });
 
