@@ -4,7 +4,7 @@ $(document).ready(function() {
 
         $('body').addClass('loaded');
       
-    }, 4);
+    }, 4000);
  
 });
 
