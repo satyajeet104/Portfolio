@@ -280,10 +280,12 @@ a {
       .photo{
         width:200px;
         height:200px;
+        z-index: 10008;
       }
       @media(min-width:708px)
       {
         .photo{
+          z-index: 10008;
           width:350px;
           height:350px;
         }
