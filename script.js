@@ -1,10 +1,11 @@
-$(document).ready(function() {
-   
+
+
+
+
+$(window).on('load', function() { 
     setTimeout(function(){
-
-        $('body').addClass('loaded');
-      
-    }, 4000);
- 
+        
+               $('body').addClass('loaded');
+              
+            }, 3500);
 });
-
